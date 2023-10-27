@@ -1,0 +1,221 @@
+.home{
+    height: auto;
+    width: auto;
+    display: flex;
+    overflow: scroll;
+    margin-top: 50px;
+    padding-top: 30px;
+    background-color: rgb(174, 231, 145);
+}
+
+.content{
+    position: relative;
+    width: 50%;
+    margin-left: 25%;
+}
+.quiz{
+    border: 1px solid rgba(255, 255, 255, 0.828);
+    border-radius: 10px;
+    box-shadow: 0px 4px 15px 0px rgb(0, 128, 0);
+    position: relative;
+}
+
+
+
+.questionno{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 35px;
+    background-color: rgba(4, 91, 2, 0.244);
+    position: relative;
+    margin-left: -32px;
+    text-indent: 15px;
+    max-width: 110%;
+}
+
+.quiz li{
+    list-style: none;
+    width: 50%;
+    font-weight: lighter;
+    color: rgba(0, 0, 0, 0.612);
+    font-style: italic;
+}
+
+.quiz li:hover{
+    background-color: rgb(244, 245, 244);
+    border-radius: 10px;
+}
+
+.question{
+    font-size: 20px;
+    font-weight: normal;
+}
+.question-container{
+    position: relative;
+    top: 15px;
+}
+
+
+/*Answer Hidings*/
+.answers-container {
+    position: relative;
+    width: 100%;
+}
+  
+.answers {
+    content: "";
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    text-indent: 5px;
+    background-color: rgba(4, 91, 2, 0.244);
+    height: 30px;
+    margin-top: 5px;
+    margin-left: -32px;
+    margin-bottom: -1px;
+    padding-right: 300px;
+    transform-origin: top;
+    position: relative;
+    z-index: 1;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+  
+.answers:hover .answer {
+    opacity: 1;
+}
+  
+.answer {
+    position: absolute;
+    top: 0px; 
+    opacity: 0;
+    text-indent: 10px;
+    transition: opacity 200ms;
+}
+  
+.answers-container:hover .answers {
+    transform: perspective(1500px) rotateX(180deg);
+    transition: 500ms;
+    transform-origin: top;
+}
+
+.answers-container:hover .answers + .answer {
+    opacity: 1;
+}
+
+
+/*Radio style*/
+.containers {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 0px;
+    cursor: pointer;
+    font-size: 18px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+  
+.containers input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+.checkmark {
+    position: absolute;
+    top: 4px;
+    left: 6px;
+    height: 20px;
+    width: 20px;
+    background-color: #eee;
+    border-radius: 3px;
+}
+  
+.containers:hover input ~ .checkmark {
+    background-color: #ccc;
+}
+  
+
+.containers input:checked ~ .checkmark {
+    background-color: #00500c;
+}
+  
+
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+  
+.containers input:checked ~ .checkmark:after {
+    display: block;
+}
+  
+.containers .checkmark:after {
+    top: -3px;
+    left: 3px;
+    border-radius: 50%;
+    content: url('./check.svg');
+}
+
+/* after submit */
+.correct {
+    background-color: rgba(0, 128, 0, 0.498);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.828);
+    box-shadow: 0px 4px 15px 0px rgb(0, 128, 0);
+}
+
+.incorrect {
+    background-color: rgba(255, 0, 0, 0.557);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.828);
+    box-shadow: 0px 4px 15px 0px rgb(0, 128, 0);
+}
+
+.button{
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.828);
+    border-radius: 10px;
+    width: 90px;
+    height: 40px;
+    box-shadow: 0px 4px 15px 0px rgb(0, 128, 0);
+    position: relative;
+}
+.button:hover{
+    background-color: rgba(4, 91, 2, 0.244);
+}
+
+/*for pagination*/
+
+.pages,.submit-button-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/*for overlay */
+#overlay {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 2;
+    cursor: pointer;
+  }
+  
+  #text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 50px;
+    color: white;
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+  }

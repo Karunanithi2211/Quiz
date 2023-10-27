@@ -1,0 +1,464 @@
+[
+    {
+        "question": "Which of the following option leads to the portability and security of Java?",
+        "options": [
+        "Bytecode is executed by JVM",
+        "The applet makes the Java code secure and portable",
+        "Use of exception handling",
+        "Dynamic binding between objects"
+        ],
+        "answer": "Bytecode is executed by JVM"
+    },
+    {
+        "question": "If you are trying to make a strong impression on your audience, you cannot do so by being understated, tentative or_____________",
+        "options": [
+        "Hyperbolic",
+        "Restrained",
+        "Argumentative",
+        "Indifferent"
+        ],
+        "answer": "Restrained"
+    },
+    {
+        "question": "Choose the most appropriate word from the options given below to complete the following sentence. He could not understand the judges awarding her the first prize, because he thought that her performance was quite __________.",
+        "options": [
+        "superb",
+        "medium",
+        "mediocre",
+        "exhilarating"
+        ],
+        "answer": "mediocre"
+    },
+    {
+        "question": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+        "options": [
+        "120 metres",
+        "180 metres",
+        "324 metres",
+        "150 metres"
+        ],
+        "answer": "150 metres"
+    },
+    {
+        "question": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+        "options": [
+        "45 km/hr",
+        "50 km/hr",
+        "54 km/hr",
+        "55 km/hr"
+        ],
+        "answer": "50 km/hr"
+    },
+    {
+        "question": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is",
+        "options": [
+        "200 m",
+        "225 m",
+        "245 m",
+        "250 m"
+        ],
+        "answer": "245 m"
+    },
+    {
+        "question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:",
+        "options": [
+        "1 : 3",
+        "3 : 2",
+        "3 : 4",
+        "None of these"
+        ],
+        "answer": "3 : 2"
+    },
+    {
+        "question": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?",
+        "options": [
+        "120 m",
+        "240 m",
+        "300 m",
+        "None of these"
+        ],
+        "answer": "240 m"
+    },
+    {
+        "question": "A train 240 m long passes a pole in 24 seconds. How long will it take to pass a platform 650 m long?",
+        "options": [
+        "65 sec",
+        "89 sec",
+        "100 sec",
+        "150 sec"
+        ],
+        "answer": "89 sec"
+    },
+    {
+        "question": "A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
+        "options": [
+        "3.6",
+        "7.2",
+        "8.4",
+        "10"
+        ],
+        "answer": "7.2"
+    },
+    {
+        "question": "An aeroplane covers a certain distance at a speed of 240 kmph in 5 hours. To cover the same distance in 1 hours, it must travel at a speed of",
+        "options": [
+        "300 kmph",
+        "360 kmph",
+        "600 kmph",
+        "720 kmph"
+        ],
+        "answer": "720 kmph"
+    },
+    {
+        "question": "If a person walks at 14 km/hr instead of 10 km/hr, he would have walked 20 km more. The actual distance travelled by him is:",
+        "options": [
+        "50 km",
+        "56 km",
+        "70 km",
+        "80 km"
+        ],
+        "answer": "50 km"
+    },
+    {
+        "question": "A train can travel 50% faster than a car. Both start from point A at the same time and reach point B 75 kms away from A at the same time. On the way, however, the train lost about 12.5 minutes while stopping at the stations. The speed of the car is:",
+        "options": [
+        "130 kmph",
+        "100 kmph",
+        "110 kmph",
+        "120 kmph"
+        ],
+        "answer": "120 kmph"
+    },
+    {
+        "question": "Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour?",
+        "options": [
+        "10",
+        "9",
+        "12",
+        "20"
+        ],
+        "answer": "10"
+    },
+    {
+        "question": "In a flight of 600 km, an aircraft was slowed down due to bad weather. Its average speed for the trip was reduced by 200 km/hr and the time of flight increased by 30 minutes. The duration of the flight is",
+        "options": [
+        "2 hours",
+        "4 hours",
+        "1 hour",
+        "3 hours"
+        ],
+        "answer": "1 hour"
+    },
+    {
+        "question": "Two ships are sailing in the sea on the two sides of a lighthouse. The angle of elevation of the top of the lighthouse is observed from the ships are 30° and 45° respectively. If the lighthouse is 100 m high, the distance between the two ships is:",
+        "options": [
+        "173 m",
+        "273 m",
+        "300 m",
+        "200 m"
+        ],
+        "answer": "273 m"
+    },
+    {
+        "question": "A man standing at a point P is watching the top of a tower, which makes an angle of elevation of 30° with the man's eye. The man walks some distance towards the tower to watch its top and the angle of the elevation becomes 60°. What is the distance between the base of the tower and the point P?",
+        "options": [
+        "2 units",
+        "12 units",
+        "Data inadequate",
+        "8 units"
+        ],
+        "answer": "Data inadequate"
+    },
+    {
+        "question": "The angle of elevation of a ladder leaning against a wall is 60° and the foot of the ladder is 4.6 m away from the wall. The length of the ladder is:",
+        "options": [
+        "2.3 m",
+        "4.6 m",
+        "7.8 m",
+        "9.2 m"
+        ],
+        "answer": "9.2 m"
+    },
+    {
+        "question": "From a point P on a level ground, the angle of elevation of the top tower is 30°. If the tower is 100 m high, the distance of point P from the foot of the tower is:",
+        "options": [
+        "156 m",
+        "149 m",
+        "173 m",
+        "200 m"
+        ],
+        "answer": "173 m"
+    },
+    {
+        "question": "The angle of elevation of the sun, when the length of the shadow of a tree √3 times the height of the tree, is:",
+        "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+        ],
+        "answer": "30°"
+    },
+    {
+        "question": "An observer 1.6 m tall is 20√3 away from a tower. The angle of elevation from his eye to the top of the tower is 30°. The height of the tower is:",
+        "options": [
+        "21.6 m",
+        "23.2 m",
+        "24.72 m",
+        "None of these"
+        ],
+        "answer": "21.6 m"
+    },
+    {
+        "question": "A bank offers 5% compound interest calculated on half-yearly basis. A customer deposits Rs. 1600 each on 1st January and 1st July of a year. At the end of the year, the amount he would have gained by way of interest is",
+        "options": [
+        "Rs. 120",
+        "Rs. 121",
+        "Rs. 122",
+        "Rs. 123"
+        ],
+        "answer": "Rs. 121"
+    },
+    {
+        "question": "The difference between simple and compound interests compounded annually on a certain sum of money for 2 years at 4% per annum is Re. 1. The sum (in Rs.) is",
+        "options": [
+        "625",
+        "630",
+        "640",
+        "650"
+        ],
+        "answer": "625"
+    },
+    {
+        "question": "There is 60% increase in an amount in 6 years at simple interest. What will be the compound interest of Rs. 12,000 after 3 years at the same rate?",
+        "options": [
+        "Rs. 2160",
+        "Rs. 3120",
+        "Rs. 3972",
+        "Rs. 6240"
+        ],
+        "answer": "Rs. 3972"
+    },
+    {
+        "question": "What is the difference between the compound interests on Rs. 5000 for 1½ years at 4% per annum compounded yearly and half-yearly?",
+        "options": [
+        "Rs. 2.04",
+        "Rs. 3.06",
+        "Rs. 4.84",
+        "Rs. 8.34"
+        ],
+        "answer": "Rs. 2.04"
+    },
+    {
+        "question": "The compound interest on Rs. 30,000 at 7% per annum is Rs. 4347. The period (in years) is",
+        "options": [
+        "2",
+        "2½",
+        "3",
+        "4"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "What will be the compound interest on a sum of Rs. 25,000 after 3 years at the rate of 12 p.c.p.a.?",
+        "options": [
+        "Rs. 9000.30",
+        "Rs. 9720",
+        "Rs. 10123.20",
+        "Rs. 10483.20"
+        ],
+        "answer": "Rs. 10123.20"
+    },
+    {
+        "question": "Father is aged three times more than his son Ronit. After 8 years, he would be two and a half times of Ronit's age. After further 8 years, how many times would he be of Ronit's age?",
+        "options": [
+        "2 times",
+        "2½ times",
+        "2¾ times",
+        "2 times"
+        ],
+        "answer": "2 times"
+    },
+    {
+        "question": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. What is the age of the youngest child?",
+        "options": [
+        "4 years",
+        "8 years",
+        "10 years",
+        "None of these"
+        ],
+        "answer": "4 years"
+    },
+    {
+        "question": "Find the greatest 5 digit number divisible by 5, 15, 20, and 25 Options",
+        "options": [
+        "99900",
+        "99000",
+        "99990",
+        "90990"
+        ],
+        "answer": "99900"
+    },
+    {
+        "question": "AZ, GT, MN, ?, YB.",
+        "options": ["KF", "RX", "SH", "TS"],
+        "answer": "SH"
+    },
+      
+    {
+        "question": "A/2, B/4, C/6, D/8",
+        "options": ["E/8, F/10", "E/12, F/14", "E/10, F/12", "D/10, E/10"],
+        "answer": "E/10, F/12"
+    },
+      
+    {
+        "question": "Poles: Magnet::? : Battery",
+        "options": ["Energy", "Power", "Terminals", "Cells"],
+        "answer": "Cells"
+    },
+      
+    {
+        "question": "What is the compound interest on a sum of ₹40,000 for 33 years at the rate of 11% per annum?",
+        "options": ["₹14444.25", "₹14706.26", "₹14322.10", "₹14705.24"],
+        "answer": "₹14706.26"
+    },
+      
+    {
+        "question": "If Ajith writes code for COUNSEL as BITIRAK, how will he write GUIDANCE?",
+        "options": ["EOHYZKBB", "FOHYZJBB", "FOHZZKAB", "HOHYBJBA"],
+        "answer": "FOHZZKAB"
+    },
+      
+    {
+        "question": "16384, 8192, 2048, 256, 16, ?, 16384, 8192, 2048, 256,16,?",
+        "options": ["11", "22", "0.5", "0.7"],
+        "answer": "0.5"
+    },
+      
+    {
+        "question": "Kamal pointed to a photograph and says. 'The lady in the photograph is my nephew's maternal grandmother.' How is the lady in the picture related to Kamal's sister if he has no sister of his own?",
+        "options": ["Mother-in-law", "Cousin", "Sister-in-law", "Mother", "Aunt"],
+        "answer": "Mother"
+    },
+      
+    {
+        "question": "Six members of a family, M, N, O, P, and Q are traveling together. M is the son of N, but N is not the mother of M. L and N are a married couple. P is the brother of N. O is the daughter of L. Q is the brother of M. How many male members are there in the family?",
+        "options": ["4", "3", "2", "1"],
+        "answer": "2"
+    },
+      
+    {
+        "question": "Antonym of Flagitious",
+        "options": ["Vapid", "Innocent", "Ignorant", "Heinous", "Frivolous"],
+        "answer": "Innocent"
+    },
+      
+    {
+        "question": "Synonym of Temporal",
+        "options": ["Sleepy", "Priestly", "Secular", "Celestial", "Scholarly"],
+        "answer": "Secular"
+    },
+      
+    {
+        "question": "An accurate clock shows 8 am. Through how many degrees will the hour hand rotate when the clock shows 2 pm?",
+        "options": ["154°", "172", "130°", "160°", "180°"],
+        "answer": "154°"
+    },
+      
+    {
+        "question": "An old clock is set at 5 am. If the old clock loses 16 minutes in 24 hours, what will be the exact time when the clock indicates 10 pm on the 4th day?",
+        "options": ["10 pm", "1.15 pm", "11.30 pm", "11 pm", "10.45 pm"],
+        "answer": "11.30 pm"
+    },
+      
+    {
+        "question": "Kushal and Maya started a business by investing Rs. 36,000 and Rs. 63,000. Find the share of each, out of the annual profit of Rs. 5500.",
+        "options": ["Rs. 3500, Rs. 2500", "Rs. 2500, Rs. 3500", "Rs. 4000, Rs. 3500", "Rs. 2000, Rs. 3500"],
+        "answer": "Rs. 3500, Rs. 2500"
+    },
+      
+    {
+        "question": "A train is moving at a speed of 132 kmph. If the length of the train is 110 meters, how long will it take to cross a railway platform 165 m long?",
+        "options": ["6.0 s", "7.5 s", "7.0 s", "8.5 s"],
+        "answer": "7.0 s"
+    },
+      
+    {
+        "question": "Out of 10 teachers of a Private school, one teacher retires, and in place of her, a new teacher 25 years old teachers join the faculty. As a result, the average age of the teachers reduces by 3 yrs. What is the age of the retired teacher?",
+        "options": ["55", "65", "45", "75"],
+        "answer": "65"
+    },
+      
+    {
+        "question": "The digit in the unit's place in the square root of 15876 is",
+        "options": ["2", "4", "6", "8"],
+        "answer": "6"
+    },
+      
+    {
+        "question": "In the organized society of today, no individual or nation can plough a lonely furrow.",
+        "options": ["Remain unaffected", "Remain non-aligned", "Survive in isolation", "Do without the help of others"],
+        "answer": "Survive in isolation"
+    },
+      
+    {
+        "question": "The difference between the value of the number increased by 20 % and the value of the number decreased by 25 % is 36. What is the number?",
+        "options": ["720", "80", "7.2", "0.8"],
+        "answer": "80"
+    },
+      
+    {
+        "question": "40 % is the passing marks. A student gets 250 marks yet fails by 38 marks. What are the maximum marks?",
+        "options": ["800", "840", "720", "750"],
+        "answer": "840"
+    },
+      
+    {
+        "question": "The sum of the first sixty numbers from one to sixty is divisible by",
+        "options": ["13", "60", "61", "59"],
+        "answer": "60"
+    },
+      
+    {
+        "question": "A little boy name Varma added all natural numbers from 1 to 10. However, he added one number twice due to which the sum becomes 58. What is the number which Varma added twice?",
+        "options": ["4", "7", "3", "8"],
+        "answer": "7"
+    },
+      
+    {
+        "question": "(53×87+159×21+106×25) is equal to",
+        "options": ["16000", "1060", "10600", "60100"],
+        "answer": "60100"
+    },
+      
+    {
+        "question": "Arrange the following in the order of the dictionary. 1.Scenery 2. Science 3. Scandal 4. School 5. Scatter",
+        "options": ["3,5,1,4,2", "3,5,4,1,2", "5,3,4,2,1", "5,3,2,1,4"],
+        "answer": "3,5,4,1,2"
+    },
+      
+    {
+        "question": "A tower standing on a horizontal plane subtends a certain angle at a point 160 m apart from the foot of the tower. On advancing 100 m towards it, the tower is found to subtend an angle twice as before. The height of the tower is",
+        "options": ["80 m", "90 m", "160 m", "270 m", "200 m"],
+        "answer": "80 m"
+    },
+      
+    {
+        "question": "By increasing the radius of a sphere by 50 per cent, by how much per cent will become the area of its surface increase?",
+        "options": ["100%", "145%", "125%", "150%", "300%"],
+        "answer": "150%"
+    },
+      
+    {
+        "question": "Dimple can type 10 pages in 5 minutes. Athena can type 5 pages in 10 minutes. Working together, how many pages can they type in 30 minutes?",
+        "options": ["15", "65", "83", "75"],
+        "answer": "65"
+    },
+      
+    {
+        "question": "Find the tense of the sentence- 'I shall visit the book fair tomorrow.'",
+        "options": ["simple past", "simple present", "simple future", "future continuous"],
+        "answer": "simple future"
+    }
+      
+]
